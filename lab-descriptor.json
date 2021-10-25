@@ -1,1 +1,93 @@
-
+{
+  "broadArea": {
+    "name": "Computer Science and Engineering",
+    "link": "https://vlab.co.in/broad-area-computer-science-and-engineering"
+  },
+    "lab": "Artificial Neural Networks",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "IIITH",
+    "baseUrl": "cse22-iiith.vlabs.ac.in",
+    "introduction": "The objective of this lab is to provide hands-on experience in understanding the basics of ANN models, and the pattern recognition tasks they perform. Some applications of ANN for problems in optimization and image processing will also be explored through these lab experiments. </br></br> Important Notes :</br></br> If some or all of the tabs in this page or the experiment page are not visible, kindly try reloading or refreshing the page.</br>Some of the content uses MathJax for rendering equations. Rendering maybe slow on some systems. If the equations are not visible, you may have to refresh or reload the page.</br>Internet explorer is not supported in the current release. ANN Lab has been checked on Firefox and Opera.",
+    "experiments": [
+    {
+      "name": "Parallel and distributed processing - I: Interactive activation and competition models",
+      "short-name": "parallel-distributed-processing-i",
+      "repo": "https://github.com/virtual-labs/exp-parallel-distributed-processing-i-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Parallel and distributed processing - II: Constraint satisfaction neural network models",
+      "short-name": "parallel-distributed-processing-ii",
+      "repo": "https://github.com/virtual-labs/exp-parallel-distributed-processing-ii-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Perceptron learning",
+      "short-name": "perceptron-learning",
+      "repo": "https://github.com/virtual-labs/exp-perceptron-learning-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Multi layer feed forward neural networks",
+      "short-name": "forward-neural-networks",
+      "repo": "https://github.com/virtual-labs/exp-forward-neural-networks-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Hopfield model for pattern storage task ",
+      "short-name": "pattern-storage-task",
+      "repo": "https://github.com/virtual-labs/exp-pattern-storage-task-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Hopfield model with stochastic update",
+      "short-name": "stochastic-update",
+      "repo": "https://github.com/virtual-labs/exp-stochastic-update-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Competitive learning neural networks for pattern clustering",
+      "short-name": "pattern-clustering",
+      "repo": "https://github.com/virtual-labs/exp-pattern-clustering-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Solution to travelling salesman problem using self organizing maps",
+      "short-name": "self-organizing-maps",
+      "repo": "https://github.com/virtual-labs/exp-self-organizing-maps-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Solution to optimization problems using Hopfield models",
+      "short-name": "hopfield-models",
+      "repo": "https://github.com/virtual-labs/exp-hopfield-models-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Weighted matching problem: Deterministic, stochastic and mean-field annealing of an Hopfield model",
+      "short-name": "mean-field-annealing",
+      "repo": "https://github.com/virtual-labs/exp-mean-field-annealing-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
+    "targetAudience": {
+        "UG": ["B. Tech./ B.E in Computer Science & Information Technolog"],
+        "PG": ["Ph. D. Beginners, Research scholars"]
+    },
+    "objective": "To introduce the students with the basics of ANN which will empower them for developing advanced ANN tools and solving practical problems in the field.",
+    "courseAlignment": {
+        "description": "",
+        "universities": ["This virtual lab on Artificial Neural Networks is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn the concepts of neural network models just by going through the designed experiments."]
+    }
+}
