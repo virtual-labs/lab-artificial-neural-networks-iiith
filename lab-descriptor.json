@@ -14,70 +14,70 @@
       "name": "Parallel and distributed processing - I: Interactive activation and competition models",
       "short-name": "parallel-distributed-processing-i",
       "repo": "https://github.com/virtual-labs/exp-parallel-distributed-processing-i-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Parallel and distributed processing - II: Constraint satisfaction neural network models",
       "short-name": "parallel-distributed-processing-ii",
       "repo": "https://github.com/virtual-labs/exp-parallel-distributed-processing-ii-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Perceptron learning",
       "short-name": "perceptron-learning",
       "repo": "https://github.com/virtual-labs/exp-perceptron-learning-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Multi layer feed forward neural networks",
       "short-name": "forward-neural-networks",
       "repo": "https://github.com/virtual-labs/exp-forward-neural-networks-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Hopfield model for pattern storage task ",
       "short-name": "pattern-storage-task",
       "repo": "https://github.com/virtual-labs/exp-pattern-storage-task-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Hopfield model with stochastic update",
       "short-name": "stochastic-update",
       "repo": "https://github.com/virtual-labs/exp-stochastic-update-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Competitive learning neural networks for pattern clustering",
       "short-name": "pattern-clustering",
       "repo": "https://github.com/virtual-labs/exp-pattern-clustering-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Solution to travelling salesman problem using self organizing maps",
       "short-name": "self-organizing-maps",
       "repo": "https://github.com/virtual-labs/exp-self-organizing-maps-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Solution to optimization problems using Hopfield models",
       "short-name": "hopfield-models",
       "repo": "https://github.com/virtual-labs/exp-hopfield-models-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Weighted matching problem: Deterministic, stochastic and mean-field annealing of an Hopfield model",
       "short-name": "mean-field-annealing",
       "repo": "https://github.com/virtual-labs/exp-mean-field-annealing-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -94,5 +94,5 @@
   },
   "exp_name": "Weighted matching problem: Deterministic, stochastic and mean-field annealing of an Hopfield model",
   "exp_short_name": "mean-field-annealing",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
