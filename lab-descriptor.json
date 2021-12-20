@@ -94,5 +94,5 @@
   },
   "exp_name": "Weighted matching problem: Deterministic, stochastic and mean-field annealing of an Hopfield model",
   "exp_short_name": "mean-field-annealing",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
