@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "https://vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "https://vlab.co.in/broad-area-computer-science-and-engineering",
+    "code": "CSE"
   },
   "lab": "Artificial Neural Networks",
+  "lab_display_name": "Artificial Neural Networks",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
